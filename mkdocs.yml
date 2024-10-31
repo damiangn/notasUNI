@@ -4,8 +4,8 @@ site_description: Notas y Resumenes de diferentes materias
 site_author: curso 2024
 
 # Github
-repo_url: https://github.com/damiangn/NotasUniversidad
-repo_name: damiangn/NotasUniversidad
+repo_url: https://github.com/damiangn/notasUNI
+repo_name: damiangn/notasUNI
 
 # Design
 theme:
@@ -57,7 +57,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/damiangn/NotasUniversidad
+      link: https://github.com/damiangn/notasUNI
       name: Repo URL
 
 
